@@ -1,0 +1,12 @@
+MV Kali Linux
+
+admin: kali-attack
+contra: kali
+
+admin splunk: admin
+contra: 12345678
+
+
+MV Ubuntu 22.04
+admin: testuser
+contra: 123456

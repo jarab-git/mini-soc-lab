@@ -21,4 +21,4 @@ This project simulates a small SOC environment using:
 - T1562 – Impair Defenses
 
 ## Screenshots
-(See incident-response folder)
+(See screenshots folder)
